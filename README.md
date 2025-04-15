@@ -1,1 +1,1 @@
-# Scientific Computing with Python. pI
+# Project nr 01: Scientific Computing with Python.
